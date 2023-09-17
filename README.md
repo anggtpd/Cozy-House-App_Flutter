@@ -1,15 +1,6 @@
-# bwa_cozy
+# Cozy House App
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-# cozyDorm_flutter
-a flutter app which help user to find a cozy dorm
+![cozy-flutter-ss2](https://github.com/anggtpd/cozyDorm_flutter/assets/75775629/a2bf5c75-93c9-4164-8d2c-5ea4db8ed48a)
